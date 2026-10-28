@@ -8,8 +8,7 @@ This is a simple command-line ATM system I built to practice Python.
 - Check Balance
 - Deposit Money
 - Withdraw Money with limit check (50,000) and balance check
-- Data Persistence using JSON file (`account.json`)
-
+  
 ## How to Run
 
 ```bash
@@ -59,4 +58,4 @@ Your balance is: 1900
 - `account.json` - Auto-created file to save accounts data (after first run)
 
 ---
-Part of my Python learning journey on GitHub.
+Consistency in small efforts leads to great achievements.
